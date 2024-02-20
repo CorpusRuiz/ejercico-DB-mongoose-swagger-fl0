@@ -16,8 +16,8 @@ module.exports = {
                     },  
                     completed:{
                         type:'boolean',
-                        description:"it indicates if the task is completed",
-                        example:"true"
+                        description:"The status of the task",
+                        example: true
                     },
                 }
             }

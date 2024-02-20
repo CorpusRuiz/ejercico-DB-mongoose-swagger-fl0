@@ -6,3 +6,5 @@ module.exports = {
         description: 'Tasks API'
     }
 }
+
+// aqui metemos la version, la de open api es la compañia, la de dentro de info es la versiond e nuestra aplicacion.

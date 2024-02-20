@@ -7,3 +7,5 @@ module.exports = {
     ...components,
     ...tasks
 };
+
+//en el module.exports ponemos los ... porque es un spread operator
